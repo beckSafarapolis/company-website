@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         indicators: false, 
         height: 780,
         transition: 500, 
-        interval: 2000
+        interval: 4000
     });
   });
 
